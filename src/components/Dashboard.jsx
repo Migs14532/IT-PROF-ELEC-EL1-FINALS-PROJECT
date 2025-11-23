@@ -8,7 +8,7 @@ import popular2 from "../assets/popular2.png";
 import service1 from "../assets/service1.png";
 import service2 from "../assets/service2.png";
 import service3 from "../assets/service3.png";
-import history from "../assets/history.png";
+import history from "../assets/history.png";  
 import booking from "../assets/booking-laundry.png";
 import profile from "../assets/profile.png";
 
